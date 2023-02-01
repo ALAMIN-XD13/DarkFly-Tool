@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+Author             : Md. Alamin Islam
+contact            : atalamin188@gmail.com
+Github             : https://github.com/atalamin
+my youtube channel : Learning Termux
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
